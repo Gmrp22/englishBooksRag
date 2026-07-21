@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+chroma_db/
+books/*
+!books/.gitkeep
+.DS_Store
+node_modules/
